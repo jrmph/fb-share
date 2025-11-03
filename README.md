@@ -119,4 +119,3 @@ A: Yes — use **Termux:Boot**
 
 > **Built by Jhames Rhonnielle Martin**  
 > *Obfuscated • Secure • Personal use only.*
-```
