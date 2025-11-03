@@ -119,3 +119,21 @@ A: Yes — use **Termux:Boot**
 
 > **Built by Jhames Rhonnielle Martin**  
 > *Obfuscated • Secure • Personal use only.*
+>
+> 
+---
+
+<div align="center">
+
+<p style="background:#ffebee; color:#c62828; font-weight:bold; padding:12px 16px; border-radius:8px; border-left:5px solid #e53935; font-size:14px; margin:20px 0;">
+
+**WARNING: FOR TESTING PURPOSES ONLY**  
+This tool is strictly for **educational and personal testing**.  
+If you want to use it go then use it.
+Do **not** use on accounts you do not own.  
+Facebook may **ban** accounts for automation.  
+**Use at your own risk** — developer is **not responsible**.
+
+</p>
+
+</div>
