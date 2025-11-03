@@ -57,7 +57,7 @@ cd fb-share
 ## Run the Tool
 
 ```bash
-python main.py
+python jrmfbsharer.py
 ```
 
 ```
